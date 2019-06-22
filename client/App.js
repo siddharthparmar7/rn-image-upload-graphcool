@@ -39,7 +39,6 @@ export default class App extends Component {
         )
           .then(res => {
             let status = res.info().status;
-            console.log('response', res);
             console.log(status);
           })
           .catch(e => {
