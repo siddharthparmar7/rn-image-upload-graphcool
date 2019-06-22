@@ -1,6 +1,6 @@
 # React Native image upload to GraphCool (example)
 
-- This is a minimal example on how to upload an image to your GraphCool server.
+- This is a minimal example of how to upload an image from your React Native app to GraphCool server.
 
 ## Installation steps:
 
